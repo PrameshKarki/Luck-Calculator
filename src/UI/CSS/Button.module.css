@@ -1,0 +1,15 @@
+.btn {
+  border: none;
+  outline: none;
+  background: var(--primary-color);
+  color: white;
+  padding: 0.75rem 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  -webkit-box-shadow: 0 0.1rem 0.5rem 0.01rem rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0.1rem 0.5rem 0.01rem rgba(0, 0, 0, 0.5);
+}
+/*# sourceMappingURL=Button.module.css.map */
